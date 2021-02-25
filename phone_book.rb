@@ -18,6 +18,4 @@ def solution(a, b, p)
   else
     return 'NO CONTACT'
   end
-
-
 end
